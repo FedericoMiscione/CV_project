@@ -4,9 +4,10 @@
 
 Link to the dataset:
 - CVUSA dataset (including Segformer segmentations) : https://drive.google.com/drive/folders/1niw0ksJ6dmfh-tuNEJT6goMMt6UdVutQ?usp=drive_link
-- Synthetic:  train : https://drive.google.com/drive/folders/1UmWqBHypT-DTawTsHfGVkaFhXbUE0kax?usp=drive_link
-              validation : https://drive.google.com/drive/folders/118I4j4FuPAESZrsqnrGibK-s6vReQAWU?usp=drive_link
-              test : https://drive.google.com/drive/folders/18wTdbQSXv9G7t4VkiJzRgJSQnADmTu9a?usp=drive_link
+- Synthetic:  
+   train : https://drive.google.com/drive/folders/1UmWqBHypT-DTawTsHfGVkaFhXbUE0kax?usp=drive_link  
+   validation : https://drive.google.com/drive/folders/118I4j4FuPAESZrsqnrGibK-s6vReQAWU?usp=drive_link  
+   test : https://drive.google.com/drive/folders/18wTdbQSXv9G7t4VkiJzRgJSQnADmTu9a?usp=drive_link
 - Synthetic segmentation : https://drive.google.com/drive/folders/1WAP0ewobiz-Oyvmu2U-ZWOgO9fjS9Nrh?usp=drive_link
 
 Link to the checkpoints:
